@@ -1,0 +1,144 @@
+[{
+	"cid": 103901799,
+	"page": 1,
+	"from": "vupload",
+	"part": "课程介绍",
+	"duration": 638,
+	"vid": "",
+	"weblink": "",
+	"dimension": {
+		"width": 2560,
+		"height": 1600,
+		"rotate": 0
+	}
+}, {
+	"cid": 103901599,
+	"page": 2,
+	"from": "vupload",
+	"part": "搭建webpack环境0 - 课程说明",
+	"duration": 314,
+	"vid": "",
+	"weblink": "",
+	"dimension": {
+		"width": 2560,
+		"height": 1600,
+		"rotate": 0
+	}
+}, {
+	"cid": 103901893,
+	"page": 3,
+	"from": "vupload",
+	"part": "搭建webpack环境1 - 学习目的",
+	"duration": 579,
+	"vid": "",
+	"weblink": "",
+	"dimension": {
+		"width": 2560,
+		"height": 1600,
+		"rotate": 0
+	}
+}, {
+	"cid": 103901897,
+	"page": 4,
+	"from": "vupload",
+	"part": "搭建webpack环境2 - 安装插件",
+	"duration": 811,
+	"vid": "",
+	"weblink": "",
+	"dimension": {
+		"width": 2560,
+		"height": 1600,
+		"rotate": 0
+	}
+}, {
+	"cid": 103888546,
+	"page": 5,
+	"from": "vupload",
+	"part": "搭建webpack环境3-介绍webpack.config.js-part1",
+	"duration": 553,
+	"vid": "",
+	"weblink": "",
+	"dimension": {
+		"width": 2560,
+		"height": 1600,
+		"rotate": 0
+	}
+}, {
+	"cid": 103889407,
+	"page": 6,
+	"from": "vupload",
+	"part": "搭建webpack环境4-介绍webpack.config.js-part2",
+	"duration": 838,
+	"vid": "",
+	"weblink": "",
+	"dimension": {
+		"width": 2560,
+		"height": 1600,
+		"rotate": 0
+	}
+}, {
+	"cid": 103887856,
+	"page": 7,
+	"from": "vupload",
+	"part": "搭建webpack环境5-webpack命令",
+	"duration": 502,
+	"vid": "",
+	"weblink": "",
+	"dimension": {
+		"width": 2560,
+		"height": 1600,
+		"rotate": 0
+	}
+}, {
+	"cid": 103888956,
+	"page": 8,
+	"from": "vupload",
+	"part": "搭建webpack环境6-介绍webpack.production.config.js",
+	"duration": 620,
+	"vid": "",
+	"weblink": "",
+	"dimension": {
+		"width": 2560,
+		"height": 1600,
+		"rotate": 0
+	}
+}, {
+	"cid": 103888845,
+	"page": 9,
+	"from": "vupload",
+	"part": "react基础01-介绍jsx-part1",
+	"duration": 332,
+	"vid": "",
+	"weblink": "",
+	"dimension": {
+		"width": 2560,
+		"height": 1600,
+		"rotate": 0
+	}
+}, {
+	"cid": 103888368,
+	"page": 10,
+	"from": "vupload",
+	"part": "react基础01-介绍jsx-part2-拼接到part1后面",
+	"duration": 152,
+	"vid": "",
+	"weblink": "",
+	"dimension": {
+		"width": 2560,
+		"height": 1600,
+		"rotate": 0
+	}
+}, {
+	"cid": 103889686,
+	"page": 11,
+	"from": "vupload",
+	"part": "react基础02-jsx语法几点注意事项-后面拼接上part2",
+	"duration": 526,
+	"vid": "",
+	"weblink": "",
+	"dimension": {
+		"width": 2560,
+		"height": 1600,
+		"rotate": 0
+	}
+}]
